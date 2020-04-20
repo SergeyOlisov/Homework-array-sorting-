@@ -2,7 +2,7 @@
 
 using static System.Console;
 
-namespace HomeworkC_
+namespace Homework
 {
     class Program
     {
